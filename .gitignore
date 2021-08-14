@@ -1,0 +1,18 @@
+# demo website
+/demo_website/node_modules
+/demo_website/public/hot
+/demo_website/public/storage
+/demo_website/storage/*.key
+/demo_website/vendor
+/demo_website/.env
+/demo_website/.env.backup
+/demo_website/.phpunit.result.cache
+/demo_website/Homestead.json
+/demo_website/Homestead.yaml
+/demo_website/npm-debug.log
+/demo_website/yarn-error.log
+
+
+# cypress
+
+/node_modules
